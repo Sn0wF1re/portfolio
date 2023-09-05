@@ -7,7 +7,7 @@
       Dare to download my resume and witness the real-world sorcery I've conjured.        
     </p>
     <div class="resume-button">
-      <a href="/src/assets/clinton_mokaya.pdf" target="_blank" download>
+      <a href="/src/assets/clinton_mokaya.pdf" target="_blank">
         Download Resume
       </a>
     </div>
