@@ -4,10 +4,10 @@
     <h2>BEHOLD, MY RESUME</h2>
     <p>
       Ready to dive into the rabbit hole of my mystical feats?
-      Dare to download my resume and witness the real-world sorcery I’ve conjured.        
+      Dare to download my resume and witness the real-world sorcery I've conjured.        
     </p>
     <div class="resume-button">
-      <a href="../assets/clinton_mokaya.pdf" target="_blank">
+      <a href="/src/assets/clinton_mokaya.pdf" target="_blank" download>
         Download Resume
       </a>
     </div>

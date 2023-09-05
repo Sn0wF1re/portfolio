@@ -64,7 +64,7 @@ a:hover {
 @media (max-width: 768px) {
   .hero {
     padding: 1.25rem;
-    background-size: 30rem;
+    background-size: 27rem;
   }
   nav {
     padding: 0;
