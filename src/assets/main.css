@@ -8,8 +8,7 @@
   font-weight: normal;
 }
 
-a,
-.green {
+a {
   text-decoration: none;
   color: #0099ff;
   transition: 0.4s;

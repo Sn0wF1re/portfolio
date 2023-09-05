@@ -16,13 +16,13 @@
       <div class="contact">
         <h3>Contact</h3>
         <a href="https://www.linkedin.com/in/clinton-mokaya/" target="_blank">LinkedIn</a>
-        <a href="">Telepathy</a>
+        <a href="https://twitter.com/Sn0wF1re" target="_blank">X</a>
       </div>
     </div>
     <div class="bottom">
       <span class="like-m"><IconLikeM /></span>
       <a href="https://github.com/Sn0wF1re" target="_blank"><font-awesome-icon icon="fa-brands fa-github" /></a>
-      <p>Copyright &copy; {{ year }}, Sn0wFire.</p>
+      <p>&copy; Copyright {{ year }}/ Sn0wFire.</p>
     </div>
   </div>
 </template>

@@ -12,6 +12,7 @@
       <h3>PORTALS</h3>
       <a href="https://www.linkedin.com/in/clinton-mokaya/" target="_blank">LinkedIn</a>
       <a href="https://github.com/Sn0wF1re" target="_blank">GitHub</a>
+      <a href="https://twitter.com/Sn0wF1re" target="_blank">X</a>
     </div>
   </div>
 </template>
