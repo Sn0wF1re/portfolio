@@ -44,7 +44,7 @@ export default {
 
 <style scoped>
   .footer {
-    font-family: 'Space Grotesk';
+    font-family: 'Space Grotesk', sans-serif;
     background: #000;
     padding: 100px 100px 30px 100px;
     width: 100%;

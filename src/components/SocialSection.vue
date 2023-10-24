@@ -35,13 +35,13 @@
   gap: 20px;
 }
 h2, h3 {
-  font-family: 'Staatliches';
+  font-family: 'Staatliches', sans-serif;
 }
 h2 {
   text-align: left;
 }
 p, a {
-  font-family: 'Space Grotesk';
+  font-family: 'Space Grotesk', sans-serif;
 }
 a {
   display: block;

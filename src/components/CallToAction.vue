@@ -7,7 +7,7 @@
       Dare to download my resume and witness the real-world sorcery I've conjured.        
     </p>
     <div class="resume-button">
-      <a href="/clinton_mokaya.pdf" target="_blank" download>
+      <a href="https://flowcv.com/resume/02lwi1wip6" target="_blank" download>
         Download Resume
       </a>
     </div>
@@ -36,7 +36,7 @@ export default {
     gap: 20px;
   }
   .resume-button {
-    font-family: 'Space Grotesk';
+    font-family: 'Space Grotesk', sans-serif;
     background-color: white;
     border-radius: 0.25rem;
     max-width: 10rem;
@@ -49,11 +49,11 @@ export default {
     background-color: hsl(0, 0%, 100%);
   }
   h2 {
-    font-family: 'Staatliches'
+    font-family: 'Staatliches', sans-serif;
   }
   p {
     text-align: center;
-    font-family: 'Space Grotesk';
+    font-family: 'Space Grotesk', sans-serif;
   }
   @media (max-width: 768px) {
     .cta {

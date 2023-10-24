@@ -56,7 +56,7 @@ export default {
   flex-direction: column;
 }
 h2 {
-  font-family: 'Staatliches';
+  font-family: 'Staatliches', sans-serif;
 }
 
 h3 {
@@ -69,7 +69,7 @@ h3 {
   grid-template-rows: auto;
 }
 article {
-  font-family: 'Space Grotesk';
+  font-family: 'Space Grotesk', sans-serif;
   padding: 1rem;
 }
 @media (max-width: 768px) {

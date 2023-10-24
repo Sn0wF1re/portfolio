@@ -51,6 +51,15 @@ export default {
         and manipulation.Utilized Vue.js as the frontend UI framework to dynamically present and manipulate data sourced \
         from the backend, ensuring a responsive and user-friendly interface."
       },
+      {
+        id: 4,
+        title: 'Pixel Morans',
+        content: "The Pixel Morans website needed a revamp to better identify",
+        showMore: ref(false),
+        link: 'https://pixelmorans.com',
+        additionalText: "with the community members. The result was a highly responsive website \
+        with vibrant brand colours that any of the community members would find easy to relate with."
+      },
     ])
 
     function toggleText(article) {
@@ -67,7 +76,7 @@ export default {
 
 <style scoped>
 .gallery {
-  font-family: 'Staatliches';
+  font-family: 'Staatliches', sans-serif;
   background-color: black;
   padding: 6.25rem;
   width: 100%;
@@ -81,7 +90,7 @@ article {
   padding: 1rem;
 }
 h3, p {
-  font-family: 'Space Grotesk';
+  font-family: 'Space Grotesk', sans-serif;
 }
 @media (max-width: 768px) {
   .gallery {

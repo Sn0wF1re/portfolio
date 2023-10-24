@@ -35,7 +35,7 @@ export default {
 }
 
 nav {
-  font-family: 'Space Grotesk';
+  font-family: 'Space Grotesk', sans-serif;
   display: flex;
   justify-content: space-between;
   width: 1fr;
@@ -43,7 +43,7 @@ nav {
 }
 h1 {
   color: #3A015C;
-  font-family: 'staatliches';
+  font-family: 'staatliches', sans-serif;
   font-weight: 500;
   font-size: 2.6rem;
   margin-bottom: 5.5rem;
