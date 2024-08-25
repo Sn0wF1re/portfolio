@@ -38,24 +38,24 @@ export default {
   }
   .resume-button {
     font-family: 'Space Grotesk', sans-serif;
-    background-color: #0099ff;
+    background-color: #3A015C;
     border-radius: 0.25rem;
     max-width: 10rem;
     padding: 5px;
   }
   a {
-    color: black;
+    color: white;
   }
   a:hover {
-    background-color: hsla(204, 100%, 50%, 0.2);
+    background-color: inherit !important;
   }
   h2 {
     font-family: 'Staatliches', sans-serif;
+    color: #0099ff;
   }
   p {
     text-align: center;
     font-family: 'Space Grotesk', sans-serif;
-    color: #0099ff;
   }
   @media (max-width: 768px) {
     .cta {
