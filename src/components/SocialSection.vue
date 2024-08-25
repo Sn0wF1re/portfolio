@@ -3,9 +3,9 @@
     <div class="socials-text">
       <h2>SOCIALIZE</h2>
       <p>
-        Want to connect on the ethereal plane?
-        Reach me through social media,
-        let's create magic together!
+        Want to connect?
+        Reach out to me on social media—let's collaborate
+        and make great things happen!
       </p>
     </div>
     <div class="portals">
@@ -39,6 +39,7 @@ h2, h3 {
 }
 h2 {
   text-align: left;
+  color: #0099ff;
 }
 p, a {
   font-family: 'Space Grotesk', sans-serif;

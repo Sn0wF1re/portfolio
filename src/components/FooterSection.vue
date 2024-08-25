@@ -8,10 +8,12 @@
         <a href="#resume">Resume</a>
       </div>
       <div class="magic">
-        <h3>Magic</h3>
+        <h3>Creations</h3>
+        <a href="https://resonant-tasks.netlify.app" target="_blank">Task Manager</a>
+        <a href="https://moonlit-kitsune.netlify.app" target="_blank">Webshop</a>
         <a href="https://mo-dalle.netlify.app" target="_blank">AI Image Generator</a>
-        <a href="https://alxmovieapp.tech" target="_blank">Movie catalogue</a>
         <a href="https://manageexpenses.netlify.app" target="_blank">Expense Tracker</a>
+        <a href="https://pixelmorans.com" target="_blank">pmv3</a>
       </div>
       <div class="contact">
         <h3>Contact</h3>
@@ -61,8 +63,18 @@ export default {
   a {
     display: block;
   }
-  .magic a {
-    color: white;
+  .magic {
+    a {
+      color: white;
+    }
+
+    a:hover {
+      background-color: hsla(204, 100%, 50%, 0.2);
+    }
+
+    h3 {
+      color: #0099ff;
+    }
   }
   .magic a:hover {
     background-color: black;

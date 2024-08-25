@@ -2,32 +2,32 @@
   <div class="faq">
     <div class="rows">
         <span class="sun"><IconSun /></span>
-        <h2>The code conjurer</h2>
+        <h2>Expertise</h2>
     </div>
     <div class="skills">
       <article>
-        <h3>Supreme Sorcery</h3>
-        <p>Magically morphing ideas into enchanting software.</p>
+        <h3>End-to-End Expertise</h3>
+        <p>Crafting seamless software solutions from concept to deployment.</p>
       </article>
       <article>
-        <h3>Spellbinding Skills</h3>
-        <p>Wielding a wide array of techno wizardry.</p>
+        <h3>API Design & Development</h3>
+        <p>Creating efficient, scalable, and secure APIs that power robust applications.</p>
       </article>
       <article>
-        <h3>Mystical Mastery</h3>
-        <p>An ethereal explorer of ever-evolving tech realms.</p>
+        <h3>Frontend Development</h3>
+        <p>Delivering responsive, user-centric designs using the latest frontend technologies.</p>
       </article>
       <article>
-        <h3>Charismatic Code</h3>
-        <p>Translating thoughts and dreams into digital reality.</p>
+        <h3>Backend Architecture</h3>
+        <p>Building reliable and scalable server-side logic to support complex applications.</p>
       </article>
       <article>
-        <h3>Enigmatic Energy</h3>
-        <p>Summoning unwavering passion in every project.</p>
+        <h3>Database Management</h3>
+        <p>Designing and optimizing databases for performance, security, and scalability.</p>
       </article>
       <article>
-        <h3>Illustrious Impact</h3>
-        <p>Striving to leave an indelible mark on the world.</p>
+        <h3>DevOps & Deployment</h3>
+        <p>Ensuring smooth, automated deployments and continuous integration to maintain high-quality software.</p>
       </article>
     </div>
   </div>
@@ -62,6 +62,7 @@ h2 {
 h3 {
   padding-bottom: 0.25rem;
   font-weight: bold;
+  color: #0099ff;
 }
 .skills {
   display: grid;

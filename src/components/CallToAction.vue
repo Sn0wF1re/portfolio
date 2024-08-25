@@ -1,10 +1,11 @@
 <template>
   <div class="cta" id="resume">
     <span class="like-m"><IconLikeM /></span>
-    <h2>BEHOLD, MY RESUME</h2>
+    <h2>MY RESUME</h2>
     <p>
-      Ready to dive into the rabbit hole of my mystical feats?
-      Dare to download my resume and witness the real-world sorcery I've conjured.        
+      Ready to explore my comprehensive experience?
+      Download my resume to see key projects
+      and skills I've developed.        
     </p>
     <div class="resume-button">
       <a href="https://flowcv.com/resume/02lwi1wip6" target="_blank" download>
@@ -37,7 +38,7 @@ export default {
   }
   .resume-button {
     font-family: 'Space Grotesk', sans-serif;
-    background-color: white;
+    background-color: #0099ff;
     border-radius: 0.25rem;
     max-width: 10rem;
     padding: 5px;
@@ -46,7 +47,7 @@ export default {
     color: black;
   }
   a:hover {
-    background-color: hsl(0, 0%, 100%);
+    background-color: hsla(204, 100%, 50%, 0.2);
   }
   h2 {
     font-family: 'Staatliches', sans-serif;
@@ -54,6 +55,7 @@ export default {
   p {
     text-align: center;
     font-family: 'Space Grotesk', sans-serif;
+    color: #0099ff;
   }
   @media (max-width: 768px) {
     .cta {
